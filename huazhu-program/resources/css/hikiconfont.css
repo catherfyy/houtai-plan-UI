@@ -1,0 +1,2184 @@
+﻿@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?bvt3qx');
+  src:  url('../fonts/icomoon.eot?bvt3qx#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?bvt3qx') format('truetype'),
+    url('../fonts/icomoon.woff?bvt3qx') format('woff'),
+    url('../fonts/icomoon.svg?bvt3qx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-通用类_IO报警输出:before {
+  content: "\e900";
+}
+.icon-通用类_IO报警输入:before {
+  content: "\e901";
+}
+.icon-通用类_SignalSource:before {
+  content: "\e902";
+}
+.icon-通用类_报警:before {
+  content: "\e903";
+}
+.icon-通用类_标签:before {
+  content: "\e904";
+}
+.icon-通用类_菜单项:before {
+  content: "\e905";
+}
+.icon-通用类_电视墙分组:before {
+  content: "\e906";
+}
+.icon-通用类_电视墙预案:before {
+  content: "\e907";
+}
+.icon-通用类_分组共享:before {
+  content: "\e908";
+}
+.icon-通用类_公有视图:before {
+  content: "\e909";
+}
+.icon-通用类_共享预案:before {
+  content: "\e90a";
+}
+.icon-通用类_监控区域:before {
+  content: "\e90b";
+}
+.icon-通用类_九画面:before {
+  content: "\e90c";
+}
+.icon-通用类_空间热度图:before {
+  content: "\e90d";
+}
+.icon-通用类_录像类型:before {
+  content: "\e90e";
+}
+.icon-通用类_默认视图:before {
+  content: "\e90f";
+}
+.icon-通用类_任务:before {
+  content: "\e910";
+}
+.icon-通用类_日历:before {
+  content: "\e911";
+}
+.icon-通用类_十六画面:before {
+  content: "\e912";
+}
+.icon-通用类_时间热度图:before {
+  content: "\e913";
+}
+.icon-通用类_视频丢失报警:before {
+  content: "\e914";
+}
+.icon-通用类_视频遮盖:before {
+  content: "\e915";
+}
+.icon-通用类_视频遮盖报警:before {
+  content: "\e916";
+}
+.icon-通用类_视图离线:before {
+  content: "\e917";
+}
+.icon-通用类_私有视图:before {
+  content: "\e918";
+}
+.icon-通用类_四画面:before {
+  content: "\e919";
+}
+.icon-通用类_添加视图:before {
+  content: "\e91a";
+}
+.icon-通用类_我的分组:before {
+  content: "\e91b";
+}
+.icon-通用类_我的预案:before {
+  content: "\e91c";
+}
+.icon-通用类_系统信息:before {
+  content: "\e91d";
+}
+.icon-通用类_巡查点:before {
+  content: "\e91e";
+}
+.icon-通用类_巡查路线:before {
+  content: "\e91f";
+}
+.icon-通用类_页链接:before {
+  content: "\e920";
+}
+.icon-通用类_一画面:before {
+  content: "\e921";
+}
+.icon-通用类_用户男:before {
+  content: "\e922";
+}
+.icon-通用类_用户女:before {
+  content: "\e923";
+}
+.icon-通用类_重点监室预案:before {
+  content: "\e924";
+}
+.icon-通用类_资源配置:before {
+  content: "\e925";
+}
+.icon-通用类_资源权限:before {
+  content: "\e926";
+}
+.icon-通用类_组:before {
+  content: "\e927";
+}
+.icon-通用类_组（打开）:before {
+  content: "\e928";
+}
+.icon-通用类_组报警:before {
+  content: "\e929";
+}
+.icon-司法类_防区:before {
+  content: "\e92a";
+}
+.icon-司法类_防区报警:before {
+  content: "\e92b";
+}
+.icon-司法类_监室:before {
+  content: "\e92c";
+}
+.icon-司法类_监狱:before {
+  content: "\e92d";
+}
+.icon-司法类_门禁:before {
+  content: "\e92e";
+}
+.icon-司法类_门禁报警:before {
+  content: "\e92f";
+}
+.icon-司法类_值班室:before {
+  content: "\e930";
+}
+.icon-设备类_cvr:before {
+  content: "\e931";
+}
+.icon-设备类_DVR:before {
+  content: "\e932";
+}
+.icon-设备类_gis:before {
+  content: "\e933";
+}
+.icon-设备类_gis云台:before {
+  content: "\e934";
+}
+.icon-设备类_IPS:before {
+  content: "\e935";
+}
+.icon-设备类_nvr:before {
+  content: "\e936";
+}
+.icon-设备类_phone:before {
+  content: "\e937";
+}
+.icon-设备类_phone-off:before {
+  content: "\e938";
+}
+.icon-设备类_phone-play:before {
+  content: "\e939";
+}
+.icon-设备类_phone-record:before {
+  content: "\e93a";
+}
+.icon-设备类_ServerCascade:before {
+  content: "\e93b";
+}
+.icon-设备类_半球:before {
+  content: "\e93c";
+}
+.icon-设备类_半球gis:before {
+  content: "\e93d";
+}
+.icon-设备类_半球播放:before {
+  content: "\e93e";
+}
+.icon-设备类_半球高清:before {
+  content: "\e93f";
+}
+.icon-设备类_半球高清播放:before {
+  content: "\e940";
+}
+.icon-设备类_半球高清离线:before {
+  content: "\e941";
+}
+.icon-设备类_半球离线:before {
+  content: "\e942";
+}
+.icon-设备类_半球录像:before {
+  content: "\e943";
+}
+.icon-设备类_半球异常:before {
+  content: "\e944";
+}
+.icon-设备类_半球智能分析:before {
+  content: "\e945";
+}
+.icon-设备类_电控点播放:before {
+  content: "\e946";
+}
+.icon-设备类_电视墙:before {
+  content: "\e947";
+}
+.icon-设备类_服务器:before {
+  content: "\e948";
+}
+.icon-设备类_服务器储存:before {
+  content: "\e949";
+}
+.icon-设备类_服务器离线:before {
+  content: "\e94a";
+}
+.icon-设备类_服务器流媒体:before {
+  content: "\e94b";
+}
+.icon-设备类_服务器异常:before {
+  content: "\e94c";
+}
+.icon-设备类_服务器正常:before {
+  content: "\e94d";
+}
+.icon-设备类_监控点:before {
+  content: "\e94e";
+}
+.icon-设备类_监控点报警:before {
+  content: "\e94f";
+}
+.icon-设备类_监控点报警并播放:before {
+  content: "\e950";
+}
+.icon-设备类_监控点离线:before {
+  content: "\e951";
+}
+.icon-设备类_监控点录像:before {
+  content: "\e952";
+}
+.icon-设备类_监控点异常:before {
+  content: "\e953";
+}
+.icon-设备类_解码器:before {
+  content: "\e954";
+}
+.icon-设备类_离线播放:before {
+  content: "\e955";
+}
+.icon-设备类_录像-09:before {
+  content: "\e956";
+}
+.icon-设备类_录像-23:before {
+  content: "\e957";
+}
+.icon-设备类_门口机:before {
+  content: "\e958";
+}
+.icon-设备类_枪机高清:before {
+  content: "\e959";
+}
+.icon-设备类_枪机高清播放离线:before {
+  content: "\e95a";
+}
+.icon-设备类_枪机高清播放中:before {
+  content: "\e95b";
+}
+.icon-设备类_枪机-通道:before {
+  content: "\e95c";
+}
+.icon-设备类_枪机异常:before {
+  content: "\e95d";
+}
+.icon-设备类_球机:before {
+  content: "\e95e";
+}
+.icon-设备类_球机gis:before {
+  content: "\e95f";
+}
+.icon-设备类_球机播放:before {
+  content: "\e960";
+}
+.icon-设备类_球机高清:before {
+  content: "\e961";
+}
+.icon-设备类_球机高清播放中:before {
+  content: "\e962";
+}
+.icon-设备类_球机高清离线:before {
+  content: "\e963";
+}
+.icon-设备类_球机离线:before {
+  content: "\e964";
+}
+.icon-设备类_球机异常:before {
+  content: "\e965";
+}
+.icon-设备类_球机智能分析:before {
+  content: "\e966";
+}
+.icon-设备类_设备-41:before {
+  content: "\e967";
+}
+.icon-设备类_设备-44:before {
+  content: "\e968";
+}
+.icon-设备类_设备IO:before {
+  content: "\e969";
+}
+.icon-设备类_设备储存:before {
+  content: "\e96a";
+}
+.icon-设备类_设备离线:before {
+  content: "\e96b";
+}
+.icon-设备类_室内机:before {
+  content: "\e96c";
+}
+.icon-设备类_室内机组:before {
+  content: "\e96d";
+}
+.icon-设备类_鱼眼:before {
+  content: "\e96e";
+}
+.icon-设备类_圆台离线:before {
+  content: "\e96f";
+}
+.icon-设备类_云台:before {
+  content: "\e970";
+}
+.icon-设备类_智能分析-08:before {
+  content: "\e971";
+}
+.icon-设备类_智能分析-60:before {
+  content: "\e972";
+}
+.icon-其它类_窗帘:before {
+  content: "\e973";
+}
+.icon-其它类_灯光:before {
+  content: "\e974";
+}
+.icon-其它类_电脑:before {
+  content: "\e975";
+}
+.icon-其它类_电视:before {
+  content: "\e976";
+}
+.icon-其它类_空调:before {
+  content: "\e977";
+}
+.icon-其它类_农作物:before {
+  content: "\e978";
+}
+.icon-其它类_其它预警点:before {
+  content: "\e979";
+}
+.icon-其它类_气象监测点:before {
+  content: "\e97a";
+}
+.icon-其它类_森林防火:before {
+  content: "\e97b";
+}
+.icon-其它类_水文监测:before {
+  content: "\e97c";
+}
+.icon-其它类_统计:before {
+  content: "\e97d";
+}
+.icon-其它类_投影仪:before {
+  content: "\e97e";
+}
+.icon-其它类_显示器:before {
+  content: "\e97f";
+}
+.icon-其它类_养殖:before {
+  content: "\e980";
+}
+.icon-其它类_渔业:before {
+  content: "\e981";
+}
+.icon-其它类_自然灾害:before {
+  content: "\e982";
+}
+.icon-节点类_节点:before {
+  content: "\e983";
+}
+.icon-节点类_练级平台:before {
+  content: "\e984";
+}
+.icon-节点类_区域:before {
+  content: "\e985";
+}
+.icon-节点类_区域报警:before {
+  content: "\e986";
+}
+.icon-节点类_省:before {
+  content: "\e987";
+}
+.icon-节点类_市:before {
+  content: "\e988";
+}
+.icon-节点类_县:before {
+  content: "\e989";
+}
+.icon-节点类_中心管理:before {
+  content: "\e98a";
+}
+.icon-节点类_主控中心1:before {
+  content: "\e98b";
+}
+.icon-节点类_主控中心2:before {
+  content: "\e98c";
+}
+.icon-交通类_出入口:before {
+  content: "\e98d";
+}
+.icon-交通类_警车:before {
+  content: "\e98e";
+}
+.icon-交通类_卡扣:before {
+  content: "\e98f";
+}
+.icon-交通类_民警:before {
+  content: "\e990";
+}
+.icon-交通类_停车场:before {
+  content: "\e991";
+}
+.icon-交通类_信号灯:before {
+  content: "\e992";
+}
+.icon-交通类_诱导屏:before {
+  content: "\e993";
+}
+.icon-地图类_地图:before {
+  content: "\e994";
+}
+.icon-地图类_端口:before {
+  content: "\e995";
+}
+.icon-地图类_公交车正常:before {
+  content: "\e996";
+}
+.icon-地图类_建筑物:before {
+  content: "\e997";
+}
+.icon-地图类_局部区域图:before {
+  content: "\e998";
+}
+.icon-地图类_楼梯:before {
+  content: "\e999";
+}
+.icon-地图类_盲点:before {
+  content: "\e99a";
+}
+.icon-地图类_偏离路线:before {
+  content: "\e99b";
+}
+.icon-地图类_事件多发区:before {
+  content: "\e99c";
+}
+.icon-地图类_网格区:before {
+  content: "\e99d";
+}
+.icon-地图类_线路:before {
+  content: "\e99e";
+}
+.icon-地图类_异常:before {
+  content: "\e99f";
+}
+.icon-应用图标_3D放大:before {
+  content: "\e9a0";
+}
+.icon-应用图标_VGA:before {
+  content: "\e9a1";
+}
+.icon-应用图标_保存:before {
+  content: "\e9a2";
+}
+.icon-应用图标_报警:before {
+  content: "\e9a3";
+}
+.icon-应用图标_本地信号:before {
+  content: "\e9a4";
+}
+.icon-应用图标_本地信号掉线:before {
+  content: "\e9a5";
+}
+.icon-应用图标_标记:before {
+  content: "\e9a6";
+}
+.icon-应用图标_播放:before {
+  content: "\e9a7";
+}
+.icon-应用图标_播放2:before {
+  content: "\e9a8";
+}
+.icon-应用图标_窗口面板最小化:before {
+  content: "\e9a9";
+}
+.icon-应用图标_打印:before {
+  content: "\e9aa";
+}
+.icon-应用图标_导出:before {
+  content: "\e9ab";
+}
+.icon-应用图标_导入:before {
+  content: "\e9ac";
+}
+.icon-应用图标_地图预览:before {
+  content: "\e9ad";
+}
+.icon-应用图标_电视墙:before {
+  content: "\e9ae";
+}
+.icon-应用图标_电子放大:before {
+  content: "\e9af";
+}
+.icon-应用图标_多画面:before {
+  content: "\e9b0";
+}
+.icon-应用图标_放大:before {
+  content: "\e9b1";
+}
+.icon-应用图标_复制:before {
+  content: "\e9b2";
+}
+.icon-应用图标_更多:before {
+  content: "\e9b3";
+}
+.icon-应用图标_关闭窗口:before {
+  content: "\e9b4";
+}
+.icon-应用图标_关闭屏幕:before {
+  content: "\e9b5";
+}
+.icon-应用图标_关于:before {
+  content: "\e9b6";
+}
+.icon-应用图标_后退:before {
+  content: "\e9b7";
+}
+.icon-应用图标_回放:before {
+  content: "\e9b8";
+}
+.icon-应用图标_静音:before {
+  content: "\e9b9";
+}
+.icon-应用图标_静音2:before {
+  content: "\e9ba";
+}
+.icon-应用图标_开锁:before {
+  content: "\e9bb";
+}
+.icon-应用图标_快进:before {
+  content: "\e9bc";
+}
+.icon-应用图标_录像--77:before {
+  content: "\e9bd";
+}
+.icon-应用图标_录像--78:before {
+  content: "\e9be";
+}
+.icon-应用图标_录像-02:before {
+  content: "\e9bf";
+}
+.icon-应用图标_录像-22:before {
+  content: "\e9c0";
+}
+.icon-应用图标_门禁:before {
+  content: "\e9c1";
+}
+.icon-应用图标_配置:before {
+  content: "\e9c2";
+}
+.icon-应用图标_批量导入:before {
+  content: "\e9c3";
+}
+.icon-应用图标_屏幕控制:before {
+  content: "\e9c4";
+}
+.icon-应用图标_切换用户:before {
+  content: "\e9c5";
+}
+.icon-应用图标_全屏:before {
+  content: "\e9c6";
+}
+.icon-应用图标_全屏还原:before {
+  content: "\e9c7";
+}
+.icon-应用图标_日历:before {
+  content: "\e9c8";
+}
+.icon-应用图标_日志:before {
+  content: "\e9c9";
+}
+.icon-应用图标_日志查询:before {
+  content: "\e9ca";
+}
+.icon-应用图标_扫码:before {
+  content: "\e9cb";
+}
+.icon-应用图标_筛选:before {
+  content: "\e9cc";
+}
+.icon-应用图标_删除:before {
+  content: "\e9cd";
+}
+.icon-应用图标_上墙显示:before {
+  content: "\e9ce";
+}
+.icon-应用图标_上一个:before {
+  content: "\e9cf";
+}
+.icon-应用图标_下一个2:before {
+  content: "\e9d0";
+}
+.icon-应用图标_设备:before {
+  content: "\e9d1";
+}
+.icon-应用图标_设备管理:before {
+  content: "\e9d2";
+}
+.icon-应用图标_设备组:before {
+  content: "\e9d3";
+}
+.icon-应用图标_设置:before {
+  content: "\e9d4";
+}
+.icon-应用图标_声音2:before {
+  content: "\e9d5";
+}
+.icon-应用图标_声音:before {
+  content: "\e9d6";
+}
+.icon-应用图标_声音控制:before {
+  content: "\e9d7";
+}
+.icon-应用图标_视频:before {
+  content: "\e9d8";
+}
+.icon-应用图标_刷新:before {
+  content: "\e9d9";
+}
+.icon-应用图标_搜索:before {
+  content: "\e9da";
+}
+.icon-应用图标_锁定-10:before {
+  content: "\e9db";
+}
+.icon-应用图标_锁定-51:before {
+  content: "\e9dc";
+}
+.icon-应用图标_添加:before {
+  content: "\e9dd";
+}
+.icon-应用图标_添加组:before {
+  content: "\e9de";
+}
+.icon-应用图标_条形码:before {
+  content: "\e9df";
+}
+.icon-应用图标_停止:before {
+  content: "\e9e0";
+}
+.icon-应用图标_图片下载:before {
+  content: "\e9e1";
+}
+.icon-应用图标_退出:before {
+  content: "\e9e2";
+}
+.icon-应用图标_文件夹-42:before {
+  content: "\e9e3";
+}
+.icon-应用图标_文件夹-60:before {
+  content: "\e9e4";
+}
+.icon-应用图标_系统配置:before {
+  content: "\e9e5";
+}
+.icon-应用图标_下一个-48:before {
+  content: "\e9e6";
+}
+.icon-应用图标_下一个-65:before {
+  content: "\e9e7";
+}
+.icon-应用图标_下载:before {
+  content: "\e9e8";
+}
+.icon-应用图标_显示通道截图:before {
+  content: "\e9e9";
+}
+.icon-应用图标_向导:before {
+  content: "\e9ea";
+}
+.icon-应用图标_信号:before {
+  content: "\e9eb";
+}
+.icon-应用图标_信号掉线:before {
+  content: "\e9ec";
+}
+.icon-应用图标_修改:before {
+  content: "\e9ed";
+}
+.icon-应用图标_音量:before {
+  content: "\e9ee";
+}
+.icon-应用图标_用户管理:before {
+  content: "\e9ef";
+}
+.icon-应用图标_用户手册:before {
+  content: "\e9f0";
+}
+.icon-应用图标_鱼眼:before {
+  content: "\e9f1";
+}
+.icon-应用图标_云台:before {
+  content: "\e9f2";
+}
+.icon-应用图标_指定位置窗口:before {
+  content: "\e9f3";
+}
+.icon-应用图标_主页:before {
+  content: "\e9f4";
+}
+.icon-应用图标_抓图-03:before {
+  content: "\e9f5";
+}
+.icon-应用图标_抓图-23:before {
+  content: "\e9f6";
+}
+.icon-应用图标_状态:before {
+  content: "\e9f7";
+}
+.icon-应用图标_状图:before {
+  content: "\e9f8";
+}
+.icon-司法图标_案件归档:before {
+  content: "\e9f9";
+}
+.icon-司法图标_本地展示台:before {
+  content: "\e9fa";
+}
+.icon-司法图标_本地证据材料:before {
+  content: "\e9fb";
+}
+.icon-司法图标_插入:before {
+  content: "\e9fc";
+}
+.icon-司法图标_拆分:before {
+  content: "\e9fd";
+}
+.icon-司法图标_撤销:before {
+  content: "\e9fe";
+}
+.icon-司法图标_电子签名:before {
+  content: "\e9ff";
+}
+.icon-司法图标_分享:before {
+  content: "\ea00";
+}
+.icon-司法图标_关机:before {
+  content: "\ea01";
+}
+.icon-司法图标_合并:before {
+  content: "\ea02";
+}
+.icon-司法图标_交班:before {
+  content: "\ea03";
+}
+.icon-司法图标_结束刻录:before {
+  content: "\ea04";
+}
+.icon-司法图标_结束示证:before {
+  content: "\ea05";
+}
+.icon-司法图标_拒接:before {
+  content: "\ea06";
+}
+.icon-司法图标_开始刻录:before {
+  content: "\ea07";
+}
+.icon-司法图标_朗读:before {
+  content: "\ea08";
+}
+.icon-司法图标_临时回避:before {
+  content: "\ea09";
+}
+.icon-司法图标_临时授权:before {
+  content: "\ea0a";
+}
+.icon-司法图标_流转:before {
+  content: "\ea0b";
+}
+.icon-司法图标_批准:before {
+  content: "\ea0c";
+}
+.icon-司法图标_取消归档:before {
+  content: "\ea0d";
+}
+.icon-司法图标_申请:before {
+  content: "\ea0e";
+}
+.icon-司法图标_审批:before {
+  content: "\ea0f";
+}
+.icon-司法图标_示证:before {
+  content: "\ea10";
+}
+.icon-司法图标_说明表预览:before {
+  content: "\ea11";
+}
+.icon-司法图标_提交审批:before {
+  content: "\ea12";
+}
+.icon-司法图标_同步:before {
+  content: "\ea13";
+}
+.icon-司法图标_校时:before {
+  content: "\ea14";
+}
+.icon-司法图标_询问室:before {
+  content: "\ea15";
+}
+.icon-司法图标_粘贴:before {
+  content: "\ea16";
+}
+.icon-司法图标_展示告知书:before {
+  content: "\ea17";
+}
+.icon-司法图标_指纹录入:before {
+  content: "\ea18";
+}
+.icon-司法图标_作废:before {
+  content: "\ea19";
+}
+.icon-能源图标_等群组:before {
+  content: "\ea1a";
+}
+.icon-能源图标_关灯:before {
+  content: "\ea1b";
+}
+.icon-能源图标_开灯:before {
+  content: "\ea1c";
+}
+.icon-楼宇图标_LOGO:before {
+  content: "\ea1d";
+}
+.icon-楼宇图标_白名单:before {
+  content: "\ea1e";
+}
+.icon-楼宇图标_班次管理:before {
+  content: "\ea1f";
+}
+.icon-楼宇图标_班组管理:before {
+  content: "\ea20";
+}
+.icon-楼宇图标_报表:before {
+  content: "\ea21";
+}
+.icon-楼宇图标_报警:before {
+  content: "\ea22";
+}
+.icon-楼宇图标_编辑信息:before {
+  content: "\ea23";
+}
+.icon-楼宇图标_饼状图:before {
+  content: "\ea24";
+}
+.icon-楼宇图标_对讲统计:before {
+  content: "\ea25";
+}
+.icon-楼宇图标_访客卡:before {
+  content: "\ea26";
+}
+.icon-楼宇图标_访客卡2:before {
+  content: "\ea27";
+}
+.icon-楼宇图标_访客卡查询:before {
+  content: "\ea28";
+}
+.icon-楼宇图标_访客卡查询2:before {
+  content: "\ea29";
+}
+.icon-楼宇图标_服务器:before {
+  content: "\ea2a";
+}
+.icon-楼宇图标_供应商迟到统计情况:before {
+  content: "\ea2b";
+}
+.icon-楼宇图标_供应商早到统计情况:before {
+  content: "\ea2c";
+}
+.icon-楼宇图标_关联:before {
+  content: "\ea2d";
+}
+.icon-楼宇图标_管理机视频权限:before {
+  content: "\ea2e";
+}
+.icon-楼宇图标_过车记录查询:before {
+  content: "\ea2f";
+}
+.icon-楼宇图标_黑名单:before {
+  content: "\ea30";
+}
+.icon-楼宇图标_假日管理:before {
+  content: "\ea31";
+}
+.icon-楼宇图标_角色查询:before {
+  content: "\ea32";
+}
+.icon-楼宇图标_角色配置:before {
+  content: "\ea33";
+}
+.icon-楼宇图标_角色切换:before {
+  content: "\ea34";
+}
+.icon-楼宇图标_考勤:before {
+  content: "\ea35";
+}
+.icon-楼宇图标_考勤2:before {
+  content: "\ea36";
+}
+.icon-楼宇图标_考勤点管理:before {
+  content: "\ea37";
+}
+.icon-楼宇图标_考勤点管理2:before {
+  content: "\ea38";
+}
+.icon-楼宇图标_空白卡:before {
+  content: "\ea39";
+}
+.icon-楼宇图标_空白卡2:before {
+  content: "\ea3a";
+}
+.icon-楼宇图标_空间热度图:before {
+  content: "\ea3b";
+}
+.icon-楼宇图标_控制日志:before {
+  content: "\ea3c";
+}
+.icon-楼宇图标_联动API:before {
+  content: "\ea3d";
+}
+.icon-楼宇图标_联动时间:before {
+  content: "\ea3e";
+}
+.icon-楼宇图标_临时卡管理:before {
+  content: "\ea3f";
+}
+.icon-楼宇图标_录像:before {
+  content: "\ea40";
+}
+.icon-楼宇图标_录像计划:before {
+  content: "\ea41";
+}
+.icon-楼宇图标_门禁:before {
+  content: "\ea42";
+}
+.icon-楼宇图标_门禁查询:before {
+  content: "\ea43";
+}
+.icon-楼宇图标_门禁分组:before {
+  content: "\ea44";
+}
+.icon-楼宇图标_门禁权限:before {
+  content: "\ea45";
+}
+.icon-楼宇图标_门禁信息:before {
+  content: "\ea46";
+}
+.icon-楼宇图标_门禁应用:before {
+  content: "\ea47";
+}
+.icon-楼宇图标_门禁状态:before {
+  content: "\ea48";
+}
+.icon-楼宇图标_年龄统计图:before {
+  content: "\ea49";
+}
+.icon-楼宇图标_排版管理:before {
+  content: "\ea4a";
+}
+.icon-楼宇图标_配置:before {
+  content: "\ea4b";
+}
+.icon-楼宇图标_取消关联:before {
+  content: "\ea4c";
+}
+.icon-楼宇图标_人脸名单:before {
+  content: "\ea4d";
+}
+.icon-楼宇图标_人脸抓拍:before {
+  content: "\ea4e";
+}
+.icon-楼宇图标_日志:before {
+  content: "\ea4f";
+}
+.icon-楼宇图标_时间热度图:before {
+  content: "\ea50";
+}
+.icon-楼宇图标_事件-查询:before {
+  content: "\ea51";
+}
+.icon-楼宇图标_事件日志:before {
+  content: "\ea52";
+}
+.icon-楼宇图标_事件中心:before {
+  content: "\ea53";
+}
+.icon-楼宇图标_数据库:before {
+  content: "\ea54";
+}
+.icon-楼宇图标_刷卡查询:before {
+  content: "\ea55";
+}
+.icon-楼宇图标_调整管理:before {
+  content: "\ea56";
+}
+.icon-楼宇图标_调整管理2:before {
+  content: "\ea57";
+}
+.icon-楼宇图标_统计时长:before {
+  content: "\ea58";
+}
+.icon-楼宇图标_网域:before {
+  content: "\ea59";
+}
+.icon-楼宇图标_未读信息:before {
+  content: "\ea5a";
+}
+.icon-楼宇图标_系统分析:before {
+  content: "\ea5b";
+}
+.icon-楼宇图标_新建信息:before {
+  content: "\ea5c";
+}
+.icon-楼宇图标_已读信息:before {
+  content: "\ea5d";
+}
+.icon-楼宇图标_已发送:before {
+  content: "\ea5e";
+}
+.icon-楼宇图标_萤石:before {
+  content: "\ea5f";
+}
+.icon-楼宇图标_硬件:before {
+  content: "\ea60";
+}
+.icon-楼宇图标_用户:before {
+  content: "\ea61";
+}
+.icon-楼宇图标_用户组:before {
+  content: "\ea62";
+}
+.icon-楼宇图标_邮件:before {
+  content: "\ea63";
+}
+.icon-楼宇图标_预览路径:before {
+  content: "\ea64";
+}
+.icon-楼宇图标_预览路径配置:before {
+  content: "\ea65";
+}
+.icon-楼宇图标_组织:before {
+  content: "\ea66";
+}
+.icon-金融图标_办公场所:before {
+  content: "\ea67";
+}
+.icon-金融图标_播放:before {
+  content: "\ea68";
+}
+.icon-金融图标_轨迹:before {
+  content: "\ea69";
+}
+.icon-金融图标_金库:before {
+  content: "\ea6a";
+}
+.icon-金融图标_考聘:before {
+  content: "\ea6b";
+}
+.icon-金融图标_密码重置:before {
+  content: "\ea6c";
+}
+.icon-金融图标_迁移:before {
+  content: "\ea6d";
+}
+.icon-金融图标_日志查询:before {
+  content: "\ea6e";
+}
+.icon-金融图标_时间:before {
+  content: "\ea6f";
+}
+.icon-金融图标_下级机构:before {
+  content: "\ea70";
+}
+.icon-金融图标_营业场所:before {
+  content: "\ea71";
+}
+.icon-金融图标_自助银行:before {
+  content: "\ea72";
+}
+.icon-交通图标_布控车辆:before {
+  content: "\ea73";
+}
+.icon-交通图标_测量距离:before {
+  content: "\ea74";
+}
+.icon-交通图标_测量面积:before {
+  content: "\ea75";
+}
+.icon-交通图标_场内车辆查询:before {
+  content: "\ea76";
+}
+.icon-交通图标_超时超速:before {
+  content: "\ea77";
+}
+.icon-交通图标_车辆检测:before {
+  content: "\ea78";
+}
+.icon-交通图标_车辆详情:before {
+  content: "\ea79";
+}
+.icon-交通图标_车位预约记录查询:before {
+  content: "\ea7a";
+}
+.icon-交通图标_撤控:before {
+  content: "\ea7b";
+}
+.icon-交通图标_充值记录查询:before {
+  content: "\ea7c";
+}
+.icon-交通图标_带上传:before {
+  content: "\ea7d";
+}
+.icon-交通图标_导入账片:before {
+  content: "\ea7e";
+}
+.icon-交通图标_倒序:before {
+  content: "\ea7f";
+}
+.icon-交通图标_地图线路:before {
+  content: "\ea80";
+}
+.icon-交通图标_多点接力:before {
+  content: "\ea81";
+}
+.icon-交通图标_发布:before {
+  content: "\ea82";
+}
+.icon-交通图标_发放:before {
+  content: "\ea83";
+}
+.icon-交通图标_非集群:before {
+  content: "\ea84";
+}
+.icon-交通图标_固定车辆管理:before {
+  content: "\ea85";
+}
+.icon-交通图标_归还:before {
+  content: "\ea86";
+}
+.icon-交通图标_轨迹查询:before {
+  content: "\ea87";
+}
+.icon-交通图标_过车记录:before {
+  content: "\ea88";
+}
+.icon-交通图标_过车记录查询:before {
+  content: "\ea89";
+}
+.icon-交通图标_绘制管控区域:before {
+  content: "\ea8a";
+}
+.icon-交通图标_绘制管理路线:before {
+  content: "\ea8b";
+}
+.icon-交通图标_绘制交通标注:before {
+  content: "\ea8c";
+}
+.icon-交通图标_货车:before {
+  content: "\ea8d";
+}
+.icon-交通图标_集群:before {
+  content: "\ea8e";
+}
+.icon-交通图标_集群信息:before {
+  content: "\ea8f";
+}
+.icon-交通图标_聚合:before {
+  content: "\ea90";
+}
+.icon-交通图标_离线:before {
+  content: "\ea91";
+}
+.icon-交通图标_列表:before {
+  content: "\ea92";
+}
+.icon-交通图标_临时缴费查询:before {
+  content: "\ea93";
+}
+.icon-交通图标_临时卡管理:before {
+  content: "\ea94";
+}
+.icon-交通图标_名称:before {
+  content: "\ea95";
+}
+.icon-交通图标_批量导入:before {
+  content: "\ea96";
+}
+.icon-交通图标_批量开卡:before {
+  content: "\ea97";
+}
+.icon-交通图标_批量配置:before {
+  content: "\ea98";
+}
+.icon-交通图标_强力布控:before {
+  content: "\ea99";
+}
+.icon-交通图标_桥吊:before {
+  content: "\ea9a";
+}
+.icon-交通图标_取消发布:before {
+  content: "\ea9b";
+}
+.icon-交通图标_人脸入录:before {
+  content: "\ea9c";
+}
+.icon-交通图标_人脸下发:before {
+  content: "\ea9d";
+}
+.icon-交通图标_上传中:before {
+  content: "\ea9e";
+}
+.icon-交通图标_身份管理:before {
+  content: "\ea9f";
+}
+.icon-交通图标_审核历史:before {
+  content: "\eaa0";
+}
+.icon-交通图标_手工入录:before {
+  content: "\eaa1";
+}
+.icon-交通图标_刷卡查询:before {
+  content: "\eaa2";
+}
+.icon-交通图标_缩略图:before {
+  content: "\eaa3";
+}
+.icon-交通图标_添加文本信息:before {
+  content: "\eaa4";
+}
+.icon-交通图标_停车场:before {
+  content: "\eaa5";
+}
+.icon-交通图标_停靠点排序:before {
+  content: "\eaa6";
+}
+.icon-交通图标_同步:before {
+  content: "\eaa7";
+}
+.icon-交通图标_网域设置:before {
+  content: "\eaa8";
+}
+.icon-交通图标_位置:before {
+  content: "\eaa9";
+}
+.icon-交通图标_消除联动:before {
+  content: "\eaaa";
+}
+.icon-交通图标_小车:before {
+  content: "\eaab";
+}
+.icon-交通图标_校时:before {
+  content: "\eaac";
+}
+.icon-交通图标_写卡:before {
+  content: "\eaad";
+}
+.icon-交通图标_卸货:before {
+  content: "\eaae";
+}
+.icon-交通图标_修改密码:before {
+  content: "\eaaf";
+}
+.icon-交通图标_移至:before {
+  content: "\eab0";
+}
+.icon-交通图标_已上传:before {
+  content: "\eab1";
+}
+.icon-交通图标_以图搜图:before {
+  content: "\eab2";
+}
+.icon-交通图标_优惠券记录查询:before {
+  content: "\eab3";
+}
+.icon-交通图标_在线:before {
+  content: "\eab4";
+}
+.icon-交通图标_摘要:before {
+  content: "\eab5";
+}
+.icon-交通图标_正序:before {
+  content: "\eab6";
+}
+.icon-交通图标_装货:before {
+  content: "\eab7";
+}
+.icon-共享图标_报警端口设置:before {
+  content: "\eab8";
+}
+.icon-共享图标_报警联动地图:before {
+  content: "\eab9";
+}
+.icon-共享图标_备份--09:before {
+  content: "\eaba";
+}
+.icon-共享图标_备份--27:before {
+  content: "\eabb";
+}
+.icon-共享图标_饼图:before {
+  content: "\eabc";
+}
+.icon-共享图标_布防模板:before {
+  content: "\eabd";
+}
+.icon-共享图标_导入照片:before {
+  content: "\eabe";
+}
+.icon-共享图标_分配:before {
+  content: "\eabf";
+}
+.icon-共享图标_分配角色:before {
+  content: "\eac0";
+}
+.icon-共享图标_更改地图:before {
+  content: "\eac1";
+}
+.icon-共享图标_归还:before {
+  content: "\eac2";
+}
+.icon-共享图标_过期:before {
+  content: "\eac3";
+}
+.icon-共享图标_还原:before {
+  content: "\eac4";
+}
+.icon-共享图标_禁用:before {
+  content: "\eac5";
+}
+.icon-共享图标_克隆:before {
+  content: "\eac6";
+}
+.icon-共享图标_客户端安全审核:before {
+  content: "\eac7";
+}
+.icon-共享图标_排序:before {
+  content: "\eac8";
+}
+.icon-共享图标_批量挂失:before {
+  content: "\eac9";
+}
+.icon-共享图标_批量解挂:before {
+  content: "\eaca";
+}
+.icon-共享图标_批量开卡:before {
+  content: "\eacb";
+}
+.icon-共享图标_批量配置:before {
+  content: "\eacc";
+}
+.icon-共享图标_批量退卡:before {
+  content: "\eacd";
+}
+.icon-共享图标_人脸录入:before {
+  content: "\eace";
+}
+.icon-共享图标_人脸下发:before {
+  content: "\eacf";
+}
+.icon-共享图标_设备回控:before {
+  content: "\ead0";
+}
+.icon-共享图标_身份管理:before {
+  content: "\ead1";
+}
+.icon-共享图标_手动充值:before {
+  content: "\ead2";
+}
+.icon-共享图标_统计:before {
+  content: "\ead3";
+}
+.icon-共享图标_推荐应用:before {
+  content: "\ead4";
+}
+.icon-共享图标_系统码设置1:before {
+  content: "\ead5";
+}
+.icon-共享图标_下线:before {
+  content: "\ead6";
+}
+.icon-共享图标_显示热点:before {
+  content: "\ead7";
+}
+.icon-共享图标_消除联动:before {
+  content: "\ead8";
+}
+.icon-共享图标_写卡:before {
+  content: "\ead9";
+}
+.icon-共享图标_选择取消节点:before {
+  content: "\eada";
+}
+.icon-共享图标_选择取消下级节点:before {
+  content: "\eadb";
+}
+.icon-共享图标_意见远程配置:before {
+  content: "\eadc";
+}
+.icon-共享图标_远程获取:before {
+  content: "\eadd";
+}
+.icon-共享图标_远程配置:before {
+  content: "\eade";
+}
+.icon-共享图标_在线侦测:before {
+  content: "\eadf";
+}
+.icon-共享图标_折线图:before {
+  content: "\eae0";
+}
+.icon-共享图标_正在处理:before {
+  content: "\eae1";
+}
+.icon-共享图标_主机状态及控制:before {
+  content: "\eae2";
+}
+.icon-共享图标_自动发现:before {
+  content: "\eae3";
+}
+.icon-系统状态_帮助:before {
+  content: "\eae4";
+}
+.icon-系统状态_成功:before {
+  content: "\eae5";
+}
+.icon-系统状态_关闭:before {
+  content: "\eae6";
+}
+.icon-系统状态_关于:before {
+  content: "\eae7";
+}
+.icon-系统状态_解锁:before {
+  content: "\eae8";
+}
+.icon-系统状态_排队中:before {
+  content: "\eae9";
+}
+.icon-系统状态_启用:before {
+  content: "\eaea";
+}
+.icon-系统状态_切换用户:before {
+  content: "\eaeb";
+}
+.icon-系统状态_设置:before {
+  content: "\eaec";
+}
+.icon-系统状态_失败:before {
+  content: "\eaed";
+}
+.icon-系统状态_锁定:before {
+  content: "\eaee";
+}
+.icon-系统状态_提醒:before {
+  content: "\eaef";
+}
+.icon-系统状态_停用:before {
+  content: "\eaf0";
+}
+.icon-系统状态_退出:before {
+  content: "\eaf1";
+}
+.icon-系统状态_向导:before {
+  content: "\eaf2";
+}
+.icon-系统状态_异常-15:before {
+  content: "\eaf3";
+}
+.icon-系统状态_异常-20:before {
+  content: "\eaf4";
+}
+.icon-系统状态_用户手册:before {
+  content: "\eaf5";
+}
+.icon-系统状态_正确:before {
+  content: "\eaf6";
+}
+.icon-系统状态_执行中:before {
+  content: "\eaf7";
+}
+.icon-系统状态_指定位置开窗:before {
+  content: "\eaf8";
+}
+.icon-系统状态_重启:before {
+  content: "\eaf9";
+}
+.icon-系统状态_状态:before {
+  content: "\eafa";
+}
+.icon-视频类_区域聚焦:before {
+  content: "\eb0c";
+}
+.icon-视频类_对讲通道2:before {
+  content: "\eb0d";
+}
+.icon-视频类_对讲通道3:before {
+  content: "\eb0e";
+}
+.icon-视频类_对讲通道1:before {
+  content: "\eb0f";
+}
+.icon-视频类_声音:before {
+  content: "\eafb";
+}
+.icon-视频类_音量:before {
+  content: "\eafc";
+}
+.icon-视频类-1倍:before {
+  content: "\eafd";
+}
+.icon-视频类-3D放大:before {
+  content: "\eafe";
+}
+.icon-视频类-4比3:before {
+  content: "\eaff";
+}
+.icon-视频类-16比9:before {
+  content: "\eb00";
+}
+.icon-视频类-标记:before {
+  content: "\eb01";
+}
+.icon-视频类-播放:before {
+  content: "\eb02";
+}
+.icon-视频类-单画面:before {
+  content: "\eb03";
+}
+.icon-视频类-单帧快进:before {
+  content: "\eb04";
+}
+.icon-视频类-倒放:before {
+  content: "\eb05";
+}
+.icon-视频类-第二码流:before {
+  content: "\eb06";
+}
+.icon-视频类-第三码流:before {
+  content: "\eb07";
+}
+.icon-视频类-第一码流:before {
+  content: "\eb08";
+}
+.icon-视频类-电子缩小:before {
+  content: "\eb09";
+}
+.icon-视频类-对讲:before {
+  content: "\eb0a";
+}
+.icon-视频类-对讲禁用:before {
+  content: "\eb0b";
+}
+.icon-视频类-多画面:before {
+  content: "\eb1d";
+}
+.icon-视频类-放大:before {
+  content: "\eb1e";
+}
+.icon-视频类-辅助聚焦:before {
+  content: "\eb1f";
+}
+.icon-视频类-更多:before {
+  content: "\eb20";
+}
+.icon-视频类-关闭:before {
+  content: "\eb21";
+}
+.icon-视频类-还原:before {
+  content: "\eb22";
+}
+.icon-视频类-后退:before {
+  content: "\eb23";
+}
+.icon-视频类-回车:before {
+  content: "\eb24";
+}
+.icon-视频类-回放:before {
+  content: "\eb25";
+}
+.icon-视频类-加音:before {
+  content: "\eb26";
+}
+.icon-视频类-减音:before {
+  content: "\eb27";
+}
+.icon-视频类-禁用:before {
+  content: "\eb28";
+}
+.icon-视频类-静音:before {
+  content: "\eb29";
+}
+.icon-视频类-九画面:before {
+  content: "\eb2a";
+}
+.icon-视频类-聚焦:before {
+  content: "\eb2b";
+}
+.icon-视频类-开启所有预览:before {
+  content: "\eb2c";
+}
+.icon-视频类-快进:before {
+  content: "\eb2d";
+}
+.icon-视频类-录像:before {
+  content: "\eb2e";
+}
+.icon-视频类-区域曝光:before {
+  content: "\eb37";
+}
+.icon-视频类-全屏:before {
+  content: "\eb38";
+}
+.icon-视频类-十六画面:before {
+  content: "\eb39";
+}
+.icon-视频类-适应屏幕:before {
+  content: "\eb3a";
+}
+.icon-视频类-手动跟踪:before {
+  content: "\eb3b";
+}
+.icon-视频类-四画面:before {
+  content: "\eb3c";
+}
+.icon-视频类-调焦:before {
+  content: "\eb3d";
+}
+.icon-视频类-停止:before {
+  content: "\eb3e";
+}
+.icon-视频类-停止录像:before {
+  content: "\eb3f";
+}
+.icon-视频类-停止所有预览:before {
+  content: "\eb40";
+}
+.icon-视频类-循环轨迹:before {
+  content: "\eb41";
+}
+.icon-视频类-鱼眼:before {
+  content: "\eb42";
+}
+.icon-视频类-语音:before {
+  content: "\eb43";
+}
+.icon-视频类-云台:before {
+  content: "\eb44";
+}
+.icon-视频类-暂停:before {
+  content: "\eb45";
+}
+.icon-视频类-抓图:before {
+  content: "\eb46";
+}
+.icon-视频类-转码回放:before {
+  content: "\eb47";
+}
+.icon-设备_QuickTime:before {
+  content: "\eb48";
+}
+.icon-设备_VGA:before {
+  content: "\eb49";
+}
+.icon-设备_VLA:before {
+  content: "\eb4a";
+}
+.icon-设备_Web-Components:before {
+  content: "\eb4b";
+}
+.icon-设备_本地信号:before {
+  content: "\eb4c";
+}
+.icon-设备_本地信号掉线:before {
+  content: "\eb4d";
+}
+.icon-设备_布防:before {
+  content: "\eb4e";
+}
+.icon-设备_撤防:before {
+  content: "\eb4f";
+}
+.icon-设备_电视墙:before {
+  content: "\eb50";
+}
+.icon-设备_高级智能分析:before {
+  content: "\eb51";
+}
+.icon-设备_屏幕控制:before {
+  content: "\eb52";
+}
+.icon-设备_日志:before {
+  content: "\eb53";
+}
+.icon-设备_上墙显示:before {
+  content: "\eb54";
+}
+.icon-设备_设备:before {
+  content: "\eb55";
+}
+.icon-设备_设备管理:before {
+  content: "\eb56";
+}
+.icon-设备_设备组:before {
+  content: "\eb57";
+}
+.icon-设备_视频:before {
+  content: "\eb58";
+}
+.icon-设备_文件夹:before {
+  content: "\eb59";
+}
+.icon-设备_显示通道截图:before {
+  content: "\eb5a";
+}
+.icon-设备_信号:before {
+  content: "\eb5b";
+}
+.icon-设备_信号掉线:before {
+  content: "\eb5c";
+}
+.icon-设备_智能分析:before {
+  content: "\eb5d";
+}
+.icon-设备_主页:before {
+  content: "\eb5e";
+}
+.icon-设备_抓图:before {
+  content: "\eb5f";
+}
+.icon-设备类_MJPEG:before {
+  content: "\eb60";
+}
+.icon-操作_GPS:before {
+  content: "\eb61";
+}
+.icon-操作_LOGO:before {
+  content: "\eb62";
+}
+.icon-操作_保存:before {
+  content: "\eb63";
+}
+.icon-操作_编辑:before {
+  content: "\eb64";
+}
+.icon-操作_编辑信息:before {
+  content: "\eb65";
+}
+.icon-操作_标记-59:before {
+  content: "\eb66";
+}
+.icon-操作_标记-60:before {
+  content: "\eb67";
+}
+.icon-操作_裁切:before {
+  content: "\eb68";
+}
+.icon-操作_测量:before {
+  content: "\eb69";
+}
+.icon-操作_打印:before {
+  content: "\eb6a";
+}
+.icon-操作_导出:before {
+  content: "\eb6b";
+}
+.icon-操作_导入:before {
+  content: "\eb6c";
+}
+.icon-操作_电话:before {
+  content: "\eb6d";
+}
+.icon-操作_返回-20:before {
+  content: "\eb6e";
+}
+.icon-操作_返回-42:before {
+  content: "\eb6f";
+}
+.icon-操作_放大-15:before {
+  content: "\eb70";
+}
+.icon-操作_放大-17:before {
+  content: "\eb71";
+}
+.icon-操作_分享:before {
+  content: "\eb72";
+}
+.icon-操作_复制:before {
+  content: "\eb73";
+}
+.icon-操作_更多:before {
+  content: "\eb74";
+}
+.icon-操作_关闭:before {
+  content: "\eb75";
+}
+.icon-操作_关联:before {
+  content: "\eb76";
+}
+.icon-操作_过滤:before {
+  content: "\eb77";
+}
+.icon-操作_呼出:before {
+  content: "\eb78";
+}
+.icon-操作_呼入:before {
+  content: "\eb79";
+}
+.icon-操作_绘制:before {
+  content: "\eb7a";
+}
+.icon-操作_列表:before {
+  content: "\eb7b";
+}
+.icon-操作_模块切换:before {
+  content: "\eb7c";
+}
+.icon-操作_末页:before {
+  content: "\eb7d";
+}
+.icon-操作_配置:before {
+  content: "\eb7e";
+}
+.icon-操作_清空:before {
+  content: "\eb7f";
+}
+.icon-操作_取消关联:before {
+  content: "\eb80";
+}
+.icon-操作_取消隐藏:before {
+  content: "\eb81";
+}
+.icon-操作_删除:before {
+  content: "\eb82";
+}
+.icon-操作_上传:before {
+  content: "\eb83";
+}
+.icon-操作_上一个:before {
+  content: "\eb84";
+}
+.icon-操作_上一页:before {
+  content: "\eb85";
+}
+.icon-操作_上移:before {
+  content: "\eb86";
+}
+.icon-操作_设备同步:before {
+  content: "\eb87";
+}
+.icon-操作_收藏:before {
+  content: "\eb88";
+}
+.icon-操作_收起:before {
+  content: "\eb89";
+}
+.icon-操作_首页:before {
+  content: "\eb8a";
+}
+.icon-操作_数据更新:before {
+  content: "\eb8b";
+}
+.icon-操作_刷新:before {
+  content: "\eb8c";
+}
+.icon-操作_搜索:before {
+  content: "\eb8d";
+}
+.icon-操作_缩小-16:before {
+  content: "\eb8e";
+}
+.icon-操作_缩小-18:before {
+  content: "\eb8f";
+}
+.icon-操作_添加:before {
+  content: "\eb90";
+}
+.icon-操作_停止下载:before {
+  content: "\eb91";
+}
+.icon-操作_图片下载:before {
+  content: "\eb92";
+}
+.icon-操作_拖出:before {
+  content: "\eb93";
+}
+.icon-操作_文字:before {
+  content: "\eb94";
+}
+.icon-操作_下一个:before {
+  content: "\eb95";
+}
+.icon-操作_下一页:before {
+  content: "\eb96";
+}
+.icon-操作_下移:before {
+  content: "\eb97";
+}
+.icon-操作_下载:before {
+  content: "\eb98";
+}
+.icon-操作_新建信息:before {
+  content: "\eb99";
+}
+.icon-操作_信息:before {
+  content: "\eb9a";
+}
+.icon-操作_移至:before {
+  content: "\eb9b";
+}
+.icon-操作_隐藏:before {
+  content: "\eb9c";
+}
+.icon-操作_应用:before {
+  content: "\eb9d";
+}
+.icon-操作_右边展开:before {
+  content: "\eb9e";
+}
+.icon-操作_右移:before {
+  content: "\eb9f";
+}
+.icon-操作_展开:before {
+  content: "\eba0";
+}
+.icon-操作_抓手:before {
+  content: "\eba1";
+}
+.icon-操作_转发:before {
+  content: "\eba2";
+}
+.icon-操作_左边展开:before {
+  content: "\eba3";
+}
+.icon-操作_左移:before {
+  content: "\eba4";
+}
+.icon-标识类_远程下载:before {
+  content: "\eb10";
+}
+.icon-标识类_安装向导:before {
+  content: "\eba5";
+}
+.icon-标识类_白名单:before {
+  content: "\eba6";
+}
+.icon-标识类_报表:before {
+  content: "\eba7";
+}
+.icon-标识类_报警:before {
+  content: "\eba8";
+}
+.icon-标识类_本地:before {
+  content: "\eba9";
+}
+.icon-标识类_测试:before {
+  content: "\ebaa";
+}
+.icon-标识类_地图预览:before {
+  content: "\ebab";
+}
+.icon-标识类_对讲统计:before {
+  content: "\ebac";
+}
+.icon-标识类_服务器-12:before {
+  content: "\ebad";
+}
+.icon-标识类_服务器-20:before {
+  content: "\ebae";
+}
+.icon-标识类_附件:before {
+  content: "\ebaf";
+}
+.icon-标识类_广播:before {
+  content: "\ebb0";
+}
+.icon-标识类_黑名单:before {
+  content: "\ebb1";
+}
+.icon-标识类_回放:before {
+  content: "\ebb2";
+}
+.icon-标识类_计划:before {
+  content: "\ebb3";
+}
+.icon-标识类_计划模板:before {
+  content: "\ebb4";
+}
+.icon-标识类_监听:before {
+  content: "\ebb5";
+}
+.icon-标识类_角色查询:before {
+  content: "\ebb6";
+}
+.icon-标识类_角色配置:before {
+  content: "\ebb7";
+}
+.icon-标识类_角色切换:before {
+  content: "\ebb8";
+}
+.icon-标识类_联动API:before {
+  content: "\ebb9";
+}
+.icon-标识类_联动时间:before {
+  content: "\ebba";
+}
+.icon-标识类_录像:before {
+  content: "\ebbb";
+}
+.icon-标识类_录像联动:before {
+  content: "\ebbc";
+}
+.icon-标识类_门禁:before {
+  content: "\ebbd";
+}
+.icon-标识类_排班管理:before {
+  content: "\ebbe";
+}
+.icon-标识类_排班人员:before {
+  content: "\ebbf";
+}
+.icon-标识类_权限:before {
+  content: "\ebc0";
+}
+.icon-标识类_人脸名单:before {
+  content: "\ebc1";
+}
+.icon-标识类_人脸抓拍:before {
+  content: "\ebc2";
+}
+.icon-标识类_日期:before {
+  content: "\ebc3";
+}
+.icon-标识类_日志查询:before {
+  content: "\ebc4";
+}
+.icon-标识类_扫码:before {
+  content: "\ebc5";
+}
+.icon-标识类_时间:before {
+  content: "\ebc6";
+}
+.icon-标识类_视频:before {
+  content: "\ebc7";
+}
+.icon-标识类_手机:before {
+  content: "\ebc8";
+}
+.icon-标识类_首页:before {
+  content: "\ebc9";
+}
+.icon-标识类_添加文件夹:before {
+  content: "\ebca";
+}
+.icon-标识类_条形码:before {
+  content: "\ebcb";
+}
+.icon-标识类_图像:before {
+  content: "\ebcc";
+}
+.icon-标识类_网络:before {
+  content: "\ebcd";
+}
+.icon-标识类_未读信息:before {
+  content: "\ebce";
+}
+.icon-标识类_系统:before {
+  content: "\ebcf";
+}
+.icon-标识类_显示器:before {
+  content: "\ebd0";
+}
+.icon-标识类_校时:before {
+  content: "\ebd1";
+}
+.icon-标识类_信息:before {
+  content: "\ebd2";
+}
+.icon-标识类_钥匙:before {
+  content: "\ebd3";
+}
+.icon-标识类_已读信息:before {
+  content: "\ebd4";
+}
+.icon-标识类_用户:before {
+  content: "\ebd5";
+}
+.icon-标识类_用户组:before {
+  content: "\ebd6";
+}
+.icon-标识类_邮件:before {
+  content: "\ebd7";
+}
+.icon-标识类_远程监测:before {
+  content: "\ebd8";
+}
+.icon-标识类_远程配置:before {
+  content: "\ebd9";
+}
+.icon-标识类_远程启动:before {
+  content: "\ebda";
+}
+.icon-标识类_远程升级:before {
+  content: "\ebdb";
+}
+.icon-标识类_在线监测:before {
+  content: "\ebde";
+}
+.icon-标识类_增加区域:before {
+  content: "\ebdf";
+}
+.icon-标识类_照片:before {
+  content: "\ebe0";
+}
+.icon-标识类_照片联动:before {
+  content: "\ebe1";
+}
+.icon-标识类_折线图:before {
+  content: "\ebe2";
+}
+.icon-标识类_柱状图:before {
+  content: "\ebe3";
+}
+.icon-标识类_状态:before {
+  content: "\ebe4";
+}
+
